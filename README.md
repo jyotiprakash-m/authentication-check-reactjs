@@ -25,7 +25,7 @@ REACT_APP_MESSAGE_SENDER_ID=8xxxxxxxxxxxxxx0
 REACT_APP_FIREBASE_APP_ID=1:xxxxxxxxxxxxxxxxxxxxxxxx74a8d6d
 
 ```
-> STEP:6 Then install all the dependencies using below colmmand
+> STEP:6 Then install all the dependencies using below command
 
 ```sh
 $ npm install 
