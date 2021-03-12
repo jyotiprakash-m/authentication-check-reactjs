@@ -12,8 +12,9 @@
 $ git clone https://github.com/jyotiprakash-m/authentication-check-reactjs
 $ cd authentication-check-reactjs
 ```
-> STEP:4 Then create a file in the root folder as `.env.local` .
-> STEP:5 Inside `.env.local` file fill all the firebase Config credential as below
+> STEP:4 Then create a file in the root folder as `.env.local`.
+
+> STEP:5 Inside `.env.local` file fill all the firebase Config credential as below.
 
 ```sh
 REACT_APP_FIREBASE_API_KEY=AxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxNI
