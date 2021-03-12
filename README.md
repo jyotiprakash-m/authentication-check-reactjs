@@ -3,7 +3,7 @@
 ## Set Up
 
 > STEP:1 Frist create a project on firebase .Then create a web application inside that project
-> 
+
 > STEP:2 Then enable `Email/Password` Sign-in method
 
 > STEP:3 Then follow these steps
